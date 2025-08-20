@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://github.com/tarasua33/prfl",
+  "homepage": "/prfl/",
   "version": "0.1.1",
   "private": true,
   "dependencies": {
@@ -20,7 +20,7 @@
     "eject": "react-scripts eject",
     "bump": "npm version patch --no-git-tag-version",
     "deploy": "npm-run-all bump build publish",
-    "publish": "gh-pages -d dist",
+    "publish": "gh-pages -d build",
     "bump:commit": "npm version patch",
     "deploy:commit": "npm-run-all bump:commit build publish"
   },
