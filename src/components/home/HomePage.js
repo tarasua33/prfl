@@ -8,7 +8,7 @@ export class HomePage extends React.Component {
       <main className="max-w-5xl mx-auto p-4 sm:p-6">
         <section className="mb-6">
           <h2 className="text-2xl font-bold mb-2">Mini Games</h2>
-          <p className="text-sm text-gray-600 dark:text-gray-300/80">Click a card to open the game. Replace placeholders with your real links and images.</p>
+          <p className="text-sm text-gray-600 dark:text-gray-300/80">Click a card to open the game.</p>
         </section>
 
         <section>
