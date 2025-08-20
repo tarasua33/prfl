@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tarasua33/prfl/static/css/main.d45f1393.css",
-    "main.js": "/tarasua33/prfl/static/js/main.4bf99573.js",
-    "index.html": "/tarasua33/prfl/index.html",
-    "main.d45f1393.css.map": "/tarasua33/prfl/static/css/main.d45f1393.css.map",
-    "main.4bf99573.js.map": "/tarasua33/prfl/static/js/main.4bf99573.js.map"
+    "main.css": "/prfl/static/css/main.d45f1393.css",
+    "main.js": "/prfl/static/js/main.4bf99573.js",
+    "index.html": "/prfl/index.html",
+    "main.d45f1393.css.map": "/prfl/static/css/main.d45f1393.css.map",
+    "main.4bf99573.js.map": "/prfl/static/js/main.4bf99573.js.map"
   },
   "entrypoints": [
     "static/css/main.d45f1393.css",
