@@ -5,7 +5,7 @@ export class Card extends React.Component {
     const { item } = this.props;
 
     return (
-      <p
+      <div
         className="block rounded-2xl overflow-hidden shadow-sm transform hover:scale-105 transition-shadow transition-transform duration-200"
         target="_blank"
         rel="noreferrer"
@@ -40,7 +40,7 @@ export class Card extends React.Component {
 
           </div>
         </div>
-      </p>
+      </div>
     );
   }
 }

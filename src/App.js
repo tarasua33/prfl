@@ -69,6 +69,12 @@ export class App extends React.Component {
           © {
             new Date().getFullYear()
           } T.Rutkowky. Built with React + Tailwind.
+
+          <p>
+            <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/5BDkNcwQqk2E/apple-arcade">Game </a>
+            icon by
+            <a target="_blank" rel="noreferrer" href="https://icons8.com"> Icons8</a>
+          </p>
         </footer>
       </div>
     );
