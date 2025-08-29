@@ -7,11 +7,20 @@ const games = [
   {
     id: 1,
     title: 'Unbolt Game',
-    description: 'A tiny puzzle of house unbolting with ThreeJS.',
+    description: 'A tiny puzzle of house unbolting. Built on ThreeJS using cannon-es physics, Tween, KeyFrameAnimations.',
     // description: 'A tiny endless runner built with Pixi.js.',
     image: '/images/unbolt.jpeg',
     href: 'https://tarasua33.github.io/unbolt-game/',
     hrefCode: "https://github.com/tarasua33/unbolt-game/"
+  },
+  {
+    id: 2,
+    title: 'Runaway Game',
+    description: 'A simple platform runner. Built on Pixi.JS using matter-js physics, Tween, FrameAnimation.',
+    // description: 'A tiny endless runner built with Pixi.js.',
+    image: '/images/runaway.jpeg',
+    href: 'https://tarasua33.github.io/runaway_home/',
+    hrefCode: "https://github.com/tarasua33/runaway_home/"
   }
 ];
 
