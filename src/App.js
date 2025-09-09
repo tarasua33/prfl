@@ -7,7 +7,7 @@ const games = [
   {
     id: 1,
     title: 'Unbolt Game',
-    description: 'A tiny puzzle of house unbolting. Built on ThreeJS using cannon-es physics, Tween, KeyFrameAnimations.',
+    description: 'A tiny puzzle of house unbolting. Built with ThreeJS using cannon-es physics, Tween, KeyFrameAnimations.',
     // description: 'A tiny endless runner built with Pixi.js.',
     image: '/images/unbolt.jpeg',
     href: 'https://tarasua33.github.io/unbolt-game/',
@@ -16,7 +16,7 @@ const games = [
   {
     id: 2,
     title: 'Runaway Game',
-    description: 'A simple platform runner. Built on Pixi.JS using matter-js physics, Tween, FrameAnimations.',
+    description: 'A simple platform runner. Built with Pixi.JS using matter-js physics, Tween, FrameAnimations.',
     // description: 'A tiny endless runner built with Pixi.js.',
     image: '/images/runaway.jpeg',
     href: 'https://tarasua33.github.io/runaway_home/',
@@ -25,7 +25,7 @@ const games = [
   {
     id: 3,
     title: 'Match and Eat (in progress)',
-    description: 'Tiny Match3 Game. Built on Phaser3 using Tweens, FrameAnimations. As an experiment, I tried to implement it without the Sequence/Step manager. Only on a horizontal connections of components.',
+    description: 'Tiny Match3 game. Built with Phaser 3 using tweens and frame animations. As an experiment, I tried to implement it without a sequence/step manager — only with horizontal connections between components.',
     // description: 'A tiny endless runner built with Pixi.js.',
     image: '/images/match.jpeg',
     href: 'https://tarasua33.github.io/match_and_eat/',

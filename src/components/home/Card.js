@@ -20,10 +20,10 @@ export class Card extends React.Component {
 
           <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-80 mix-blend-multiply"></div>
 
-          <div className="absolute left-3 top-3 right-3 text-white rounded-md bg-dark/20">
+          <div className="absolute left-3 top-3 right-3 text-white rounded-md bg-dark/40">
 
             <h3 className="px-3 py-1 text-lg font-semibold truncate">{item.title}</h3>
-            <p className="px-3 py-1 text-sm opacity-90 mt-1 line-clamp-2">{item.description}</p>
+            <p className="px-3 py-1 text-sm opacity-90 mt-1 line-clamp-7">{item.description}</p>
 
           </div>
           <div className="absolute left-3 bottom-3 right-3 text-white">
