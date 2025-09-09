@@ -16,11 +16,20 @@ const games = [
   {
     id: 2,
     title: 'Runaway Game',
-    description: 'A simple platform runner. Built on Pixi.JS using matter-js physics, Tween, FrameAnimation.',
+    description: 'A simple platform runner. Built on Pixi.JS using matter-js physics, Tween, FrameAnimations.',
     // description: 'A tiny endless runner built with Pixi.js.',
     image: '/images/runaway.jpeg',
     href: 'https://tarasua33.github.io/runaway_home/',
     hrefCode: "https://github.com/tarasua33/runaway_home/"
+  },
+  {
+    id: 3,
+    title: 'Match and Eat (in progress)',
+    description: 'Tiny Match3 Game. Built on Phaser3 using Tweens, FrameAnimations. As an experiment, I tried to implement it without the Sequence/Step manager. Only on a horizontal connections of components.',
+    // description: 'A tiny endless runner built with Pixi.js.',
+    image: '/images/match.jpeg',
+    href: 'https://tarasua33.github.io/match_and_eat/',
+    hrefCode: "https://github.com/tarasua33/match_and_eat"
   }
 ];
 
