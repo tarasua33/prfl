@@ -24,12 +24,20 @@ const games = [
   },
   {
     id: 3,
-    title: 'Match and Eat (in progress)',
-    description: 'Tiny Match3 game. Built with Phaser 3 using tweens and frame animations. As an experiment, I tried to implement it without a sequence/step manager — only with horizontal connections between components.',
+    title: 'Match and Eat (IN PROGRESS)',
+    description: 'Tiny Match3 game. Built with Phaser3 using tweens and frame animations. As an experiment, I tried to implement it without a sequence/step manager — only with horizontal connections between components.',
     // description: 'A tiny endless runner built with Pixi.js.',
     image: '/images/match.jpeg',
     href: 'https://tarasua33.github.io/match_and_eat/',
     hrefCode: "https://github.com/tarasua33/match_and_eat"
+  },
+  {
+    id: 4,
+    title: 'Destroy the castle (IN PROGRESS)',
+    description: 'Destroy the castle game-type. Built with Phaser3 using tweens and matter-js.',
+    image: '/images/dtc.jpeg',
+    href: 'https://tarasua33.github.io/crush_castle/',
+    hrefCode: "https://github.com/tarasua33/crush_castle"
   }
 ];
 
