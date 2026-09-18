@@ -34,10 +34,19 @@ const games = [
   {
     id: 4,
     title: 'Destroy the castle (IN PROGRESS)',
-    description: 'Destroy the castle game-type. Built with Phaser3 using tweens and matter-js.',
+		description: 'Destroy the castle game-type. Built with Phaser3 using tweens and matter-js.',
     image: '/images/dtc.jpeg',
     href: 'https://tarasua33.github.io/crush_castle/',
     hrefCode: "https://github.com/tarasua33/crush_castle"
+	},
+	{
+		id: 5,
+		title: 'Mahjong Puzzle',
+		description: 'Mahjong Puzzle game-type. Pixi.JS using, Tween, Asynchrony (Promises) based game loop',
+		image: '/images/mahjong.jpeg',
+		href: 'https://tarasua33.github.io/mahjong_puzzl/',
+		hrefCode: "https://github.com/tarasua33/mahjong_puzzl"
+
   }
 ];
 
