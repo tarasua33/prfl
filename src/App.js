@@ -103,7 +103,7 @@ export class App extends React.Component {
         <footer className="max-w-5xl mx-auto p-4 text-sm text-center text-gray-600 dark:text-gray-400">
           © {
             new Date().getFullYear()
-          } T.Rutkowky. Built with React + Tailwind.
+          } T.Rutkowsky. Built with React + Tailwind.
 
           <p>
             <a target="_blank" rel="noreferrer" href="https://icons8.com/icon/5BDkNcwQqk2E/apple-arcade">Game </a>
