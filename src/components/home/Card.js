@@ -13,7 +13,7 @@ export class Card extends React.Component {
         <div className="aspect-square bg-gray-100 dark:bg-gray-800 w-full relative">
 
           <img
-            src={item.image}
+            src={`${process.env.PUBLIC_URL}${item.image}`}
             alt={item.title}
             className="object-cover w-full h-full"
           />
