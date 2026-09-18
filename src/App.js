@@ -24,7 +24,7 @@ const games = [
   },
   {
     id: 3,
-    title: 'Match and Eat (IN PROGRESS)',
+    title: 'Match and Eat',
     description: 'Tiny Match3 game. Built with Phaser3 using tweens and frame animations. As an experiment, I tried to implement it without a sequence/step manager — only with horizontal connections between components.',
     // description: 'A tiny endless runner built with Pixi.js.',
     image: '/images/match.jpeg',
@@ -33,7 +33,7 @@ const games = [
   },
   {
     id: 4,
-    title: 'Destroy the castle (IN PROGRESS)',
+    title: 'Destroy the castle (in progress)',
 		description: 'Destroy the castle game-type. Built with Phaser3 using tweens and matter-js.',
     image: '/images/dtc.jpeg',
     href: 'https://tarasua33.github.io/crush_castle/',
@@ -41,7 +41,7 @@ const games = [
 	},
 	{
 		id: 5,
-		title: 'Mahjong Puzzle',
+		title: 'Mahjong Puzzle (in progress)',
 		description: 'Mahjong Puzzle game-type. Pixi.JS using, Tween, Asynchrony (Promises) based game loop',
 		image: '/images/mahjong.jpeg',
 		href: 'https://tarasua33.github.io/mahjong_puzzl/',
